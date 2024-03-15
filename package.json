@@ -12,5 +12,13 @@
     "web3": "^4.0.3",
     "tea-wallet-evm-generate": "^1.1.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barudakngoding/tea-testnet-early"
+  },
+  "bugs": {
+    "url": "https://github.com/barudakngoding/tea-testnet-early/issues"
+  },
+  "homepage": "https://github.com/barudakngoding/tea-testnet-early#readme",
   "description": ""
 }
